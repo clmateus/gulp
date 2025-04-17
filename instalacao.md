@@ -8,3 +8,8 @@
 6. criar o arquivo gulpfile.js
 7. criar o arquivo .gitignore e adicionar a pasta node_modules
 8. npm run gulp
+
+## Instalando Plugin Gulp Sass
+
+1. npm install --save-dev gulp-sass
+2. npm install --save-dev sass
